@@ -7,8 +7,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Testing
-- 🌱 I’m currently learning Java,
+- 🔭 I’m currently working on <b>SW QA Adavance</b>
+- I'm 
+
+- 🌱 I’m currently learning 
+--  Back End <b> <i>JAVA, DSA, MySQL, Hibernate, Spring, JavaScript, </i></b>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
