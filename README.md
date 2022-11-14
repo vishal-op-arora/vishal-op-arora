@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - I'm 
 
 - 🌱 I’m currently learning 
---  Back End <b> <i>JAVA, DSA, MySQL, Hibernate, Spring, JavaScript, </i></b>
+- BackEnd <b> <i>JAVA, DSA, MySQL, Hibernate, Spring</i></b>
+- FrontkEnd <b> <i>HTM, CSS, JAvaScript, TypeScript, React</i></b>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
