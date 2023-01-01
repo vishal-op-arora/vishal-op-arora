@@ -7,7 +7,7 @@
 -->
 
 ## 💫 About Me:
- 🔭 I’m currently working as <b><i>SW QA Adavance</i></b><br>
+ 🔭 I’m currently working as <b><i>QA Adavance</i></b><br>
  🌱 I’m currently learning <b><i> TypeScript, React and Cloud Technologies </i></b><br>
  👯 I’m looking to collaborate on projects related to <b><i>Full Stack development<i/></b> <br>
  👨‍💻 Academic ePortfolio <a href="https://eportfolio.mygreatlearning.com/vishal-arora2"><b>Advanced Certificate Program in Full Stack Software Development</b></a><br>
